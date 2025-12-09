@@ -226,13 +226,11 @@ http://localhost:8501
 ```
 productibot/
 │
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── env.txt                # API key
-├── README.md              # Project documentation
-│
-├── screenshot/               # Screenshot
-│   └── UI chatbot ProductiBot.png
+├── app.py                        # Main Streamlit application
+├── requirements.txt              # Python dependencies
+├── env.txt                       # API key
+├── README.md                     # Project documentation
+├── UI chatbot ProductiBot.png    # Screenshot
 │
 └── exports/              # Folder untuk exported chats
     └── .gitkeep
@@ -243,7 +241,7 @@ productibot/
 ## 📸 Screenshots
 
 ### Homepage & Configuration
-![Homepage](screenshot/UI chatbot ProductiBot.png)
+![Homepage](UI chatbot ProductiBot.png)
 
 ---
 
