@@ -241,7 +241,7 @@ productibot/
 ## 📸 Screenshots
 
 ### Homepage & Configuration
-![Homepage](UI chatbot ProductiBot.png)
+![UI chatbot ProductiBot.png](https://github.com/OfelliaM/LLM-Chatbot/blob/main/UI%20chatbot%20ProductiBot.png)
 
 ---
 
